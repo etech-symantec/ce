@@ -1,0 +1,5 @@
+[
+  {"name":"Designing Cisco UCS X-Series for AI","code":"DCUCSX","program":"Stack","category":"AI 인프라 · 데이터센터","ce":9,"hours":9.35,"start":"2026-08-24","end":"2026-10-08","description":"UCS X-Series 아키텍처, GPU 요구사항, Intersight 기반 배포와 자동화.","url":"https://blogs.cisco.com/learning/rev-up-to-recert-stack","source":"Cisco 공식 블로그"},
+  {"name":"Cisco Splunk for AI Operations","code":"CAIOP","program":"Stack","category":"AI 운영 · Splunk","ce":6,"hours":7.8833,"start":"2026-08-24","end":"2026-10-08","description":"Splunk 기반 AI 운영 및 AI 기반 운영 자동화 학습.","url":"https://blogs.cisco.com/learning/rev-up-to-recert-stack","source":"Cisco 공식 블로그"},
+  {"name":"Designing Cisco Security Infrastructure","code":"SDSI","program":"SDSI","category":"네트워크 보안 · 클라우드","ce":41,"hours":null,"start":"2026-05-29","end":"2026-07-24","description":"보안 인프라 설계, 클라우드 네이티브 보안, AI·자동화·DevSecOps.","url":"https://learningnetwork.cisco.com/s/question/0D5QO00002JR6II0A1/-learn-and-earn-up-to-41-continuing-education-ce-credits-with-rev-up-to-recert-sdsi-launching-today-","source":"Cisco Learning Network"}
+]
