@@ -1,1 +1,14 @@
-{"checked_at":null,"window_start":null,"window_end":null,"topic_access":"첫 실행 전","discovery":"첫 실행 전","candidate_count":0,"errors":[]}
+{
+  "checked_at": "2026-10-16T00:06:30+00:00",
+  "window_start": "2026-04-16",
+  "window_end": "2026-10-16",
+  "topic_url": "https://learningnetwork.cisco.com/s/topic/0TO6e000002e4QmGAI/rev-up-to-recert-community",
+  "topic_access": "동적 로딩/접근 제한 (전체 게시글 목록 미확인)",
+  "discovery": "Google News RSS를 통한 보조 발견. 전체 글 목록 보장 안 됨.",
+  "rss_queries_succeeded": 3,
+  "rss_queries_total": 3,
+  "new_candidates": 0,
+  "candidate_count": 0,
+  "errors": [],
+  "course_update": "CE 과정은 별도 검증된 data/courses.json만 표시하며 자동으로 확정하지 않음"
+}
