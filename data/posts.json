@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "title": "Cisco Live Melbourne: What’s Happening at the Learn with Cisco Booth",
+    "url": "https://blogs.cisco.com/learning/cl-apjc-2026",
+    "published": "2026-11-03",
+    "source": "Cisco Blogs (공식)",
+    "verification": "Cisco 공식 글 · Rev Up to Recert: SP Cloud 안내 포함"
+  },
+  {
+    "title": "Why Virtualization is No Longer Optional for Service Provider Engineers",
+    "url": "https://blogs.cisco.com/learning/why-virtualization-is-no-longer-optional-for-service-provider-engineers",
+    "published": "2026-10-26",
+    "source": "Cisco Blogs (공식)",
+    "verification": "Cisco 공식 글 · Rev Up to Recert: SP Cloud · 40 CE"
+  },
+  {
+    "title": "Rev Up to Recert: Stack Your AI Infrastructure and Ops Knowledge",
+    "url": "https://blogs.cisco.com/learning/rev-up-to-recert-stack",
+    "published": "2026-08-24",
+    "source": "Cisco Blogs (공식)",
+    "verification": "Cisco 공식 글 · Rev Up to Recert: Stack · 최대 15 CE"
+  },
+  {
+    "title": "CCNP Security News Roundup: Free SDSI Training, New Duo Course",
+    "url": "https://blogs.cisco.com/learning/ccnp-security-news-roundup-free-sdsi-training-new-duo-course",
+    "published": "2026-06-11",
+    "source": "Cisco Blogs (공식)",
+    "verification": "Cisco 공식 글 · Rev Up to Recert: SDSI · 41 CE"
+  }
+]
