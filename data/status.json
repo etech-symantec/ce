@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-11-08T05:48:31+00:00",
-  "window_start": "2026-05-09",
-  "window_end": "2026-11-08",
+  "checked_at": "2026-11-09T05:58:23+00:00",
+  "window_start": "2026-05-10",
+  "window_end": "2026-11-09",
   "topic_url": "https://learningnetwork.cisco.com/s/topic/0TO6e000002e4QmGAI/rev-up-to-recert-community",
   "topic_access": "동적 로딩/접근 제한 (Cisco Blogs 공식 피드로 보완)",
   "discovery": "Cisco Blogs 공식 RSS 직접 수집 + Google News RSS 보조 발견.",
