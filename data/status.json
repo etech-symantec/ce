@@ -1,18 +1,16 @@
 {
-  "checked_at": "2026-11-27T08:02:44+00:00",
-  "window_start": "2026-05-28",
-  "window_end": "2026-11-27",
+  "checked_at": "2026-11-28T07:31:21+00:00",
+  "window_start": "2026-05-29",
+  "window_end": "2026-11-28",
   "topic_url": "https://learningnetwork.cisco.com/s/topic/0TO6e000002e4QmGAI/rev-up-to-recert-community",
   "topic_access": "동적 로딩/접근 제한 (Cisco Blogs 공식 피드로 보완)",
   "discovery": "Cisco Blogs 공식 RSS 직접 수집 + Google News RSS 보조 발견.",
   "official_feeds_succeeded": 3,
   "official_feeds_total": 3,
-  "rss_queries_succeeded": 3,
+  "rss_queries_succeeded": 4,
   "rss_queries_total": 4,
   "new_candidates": 0,
   "candidate_count": 4,
-  "errors": [
-    "Google News RSS query failed: HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site%3Ablogs.cisco.com%2Flearning%2F+%22Rev+Up+to+Recert%22&hl=en-US&gl=US&ceid=US%3Aen"
-  ],
+  "errors": [],
   "course_update": "검증된 무료 CE 과정은 data/courses.json에 별도 관리"
 }
